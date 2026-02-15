@@ -1,0 +1,9 @@
+{
+  "name": "canva-callback",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "test": "echo 'No tests yet'"
+  }
+}
